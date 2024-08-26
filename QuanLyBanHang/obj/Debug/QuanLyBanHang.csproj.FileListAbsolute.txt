@@ -1,0 +1,78 @@
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\bin\Debug\QuanLyBanHang.exe.config
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\bin\Debug\QuanLyBanHang.exe
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\bin\Debug\QuanLyBanHang.pdb
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.banhang.banhang.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.DangKy.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.Dangnhap.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.main1.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.main2.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.quanly.frmThongTinDonHang.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.quanly.nhacungcap.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.quanly.sanpham.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.TaiKhoan.DoiMk.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.exe
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.pdb
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLySieuThi\obj\Debug\QuanLyBanHang.main.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.DangKy.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.Dangnhap.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.main.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.quanly.frmThongTinDonHang.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.quanly.nhacungcap.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.quanly.sanpham.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.TaiKhoan.DoiMk.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.banhang.banhang.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\QuanLySieuThi-main\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.banhang.banhang.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.DangKy.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.Dangnhap.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.main.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.quanly.frmThongTinDonHang.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.quanly.nhacungcap.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.quanly.sanpham.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.TaiKhoan.DoiMk.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\public_html\C-sharp\Quan-Ly-Ban-Hang\duyduc\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.banhang.banhang.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.DangKy.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.Dangnhap.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.main.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.quanly.frmThongTinDonHang.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.quanly.nhacungcap.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.quanly.sanpham.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.TaiKhoan.DoiMk.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Phần Mềm Bán Hàng\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb

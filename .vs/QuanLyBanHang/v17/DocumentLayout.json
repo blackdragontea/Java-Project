@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\quanlybanhang\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\quanlybanhang\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\quanlybanhang\\quanly\\frmthongtindonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\quanly\\frmthongtindonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\quanlybanhang\\quanly\\nhacungcap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\quanly\\nhacungcap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\quanlybanhang\\quanly\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\quanly\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\quanlybanhang\\xuatexecl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\xuatexecl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\ph\u1EA7n m\u1EC1m b\u00E1n h\u00E0ng\\quanlybanhang\\taikhoan\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\taikhoan\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\quanlybanhang\\banhang\\banhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\banhang\\banhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\quanlybanhang\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\quanlybanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XuatExecl.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\XuatExecl.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\XuatExecl.cs",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\XuatExecl.cs",
+              "RelativeToolTip": "QuanLyBanHang\\XuatExecl.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwHUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:20:46.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sanpham.Designer.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\quanly\\sanpham.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\quanly\\sanpham.Designer.cs",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\quanly\\sanpham.Designer.cs*",
+              "RelativeToolTip": "QuanLyBanHang\\quanly\\sanpham.Designer.cs*",
+              "ViewState": "AQIAAIEBAAAAAAAAAAAkwIkBAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:20:34.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nhacungcap.Designer.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\quanly\\nhacungcap.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\quanly\\nhacungcap.Designer.cs",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\quanly\\nhacungcap.Designer.cs*",
+              "RelativeToolTip": "QuanLyBanHang\\quanly\\nhacungcap.Designer.cs*",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwGkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:20:31.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmThongTinDonHang.Designer.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\quanly\\frmThongTinDonHang.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\quanly\\frmThongTinDonHang.Designer.cs",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\quanly\\frmThongTinDonHang.Designer.cs*",
+              "RelativeToolTip": "QuanLyBanHang\\quanly\\frmThongTinDonHang.Designer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:20:28.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\Properties\\Resources.resx",
+              "RelativeToolTip": "QuanLyBanHang\\Properties\\Resources.resx",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAH8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-22T04:20:24.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAYwOMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:20:20.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\TaiKhoan\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\TaiKhoan\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\TaiKhoan\\frmTaiKhoan.cs*",
+              "RelativeToolTip": "QuanLyBanHang\\TaiKhoan\\frmTaiKhoan.cs*",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:37:49.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "banhang.Designer.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\banhang\\banhang.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\banhang\\banhang.Designer.cs",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\banhang\\banhang.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\banhang\\banhang.Designer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAYwK8BAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:20:16.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\main.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\main.cs",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\main.cs",
+              "RelativeToolTip": "QuanLyBanHang\\main.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAIAxwFUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:19:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "banhang.cs",
+              "DocumentMoniker": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\banhang\\banhang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\banhang\\banhang.cs",
+              "ToolTip": "D:\\Ph\u1EA7n M\u1EC1m B\u00E1n H\u00E0ng\\QuanLyBanHang\\banhang\\banhang.cs",
+              "RelativeToolTip": "QuanLyBanHang\\banhang\\banhang.cs",
+              "ViewState": "AQIAABIBAAAAAAAAAAAawB8BAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:19:32.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
